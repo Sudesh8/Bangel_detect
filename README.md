@@ -9,3 +9,12 @@ This project is designed to detect and classify bangles in video frames using a 
 - OpenCV (`cv2`)
 - Ultralytics YOLO
 - A pre-trained YOLO model (`bangel.pt`)
+
+  ### How to install requirements
+`
+pip install -r requirements.txt
+`
+### How to run source code
+`
+python `bangleProj.py
+
